@@ -1,0 +1,107 @@
+C:\Users\BIG CAT\source\repos\RFID\RFID\bin\Debug\RFID.exe.config
+C:\Users\BIG CAT\source\repos\RFID\RFID\bin\Debug\RFID.exe
+C:\Users\BIG CAT\source\repos\RFID\RFID\bin\Debug\RFID.pdb
+C:\Users\BIG CAT\source\repos\RFID\RFID\bin\Debug\RFID.xml
+C:\Users\BIG CAT\source\repos\RFID\RFID\obj\Debug\RFID.vbprojAssemblyReference.cache
+C:\Users\BIG CAT\source\repos\RFID\RFID\obj\Debug\RFID.Form1.resources
+C:\Users\BIG CAT\source\repos\RFID\RFID\obj\Debug\RFID.Resources.resources
+C:\Users\BIG CAT\source\repos\RFID\RFID\obj\Debug\RFID.vbproj.GenerateResource.cache
+C:\Users\BIG CAT\source\repos\RFID\RFID\obj\Debug\RFID.vbproj.CoreCompileInputs.cache
+C:\Users\BIG CAT\source\repos\RFID\RFID\obj\Debug\RFID.exe
+C:\Users\BIG CAT\source\repos\RFID\RFID\obj\Debug\RFID.xml
+C:\Users\BIG CAT\source\repos\RFID\RFID\obj\Debug\RFID.pdb
+C:\Users\BIG CAT\source\repos\RFID\RFID\bin\Debug\MySql.Data.dll
+C:\Users\BIG CAT\source\repos\RFID\RFID\bin\Debug\Google.Protobuf.dll
+C:\Users\BIG CAT\source\repos\RFID\RFID\bin\Debug\Zstandard.Net.dll
+C:\Users\BIG CAT\source\repos\RFID\RFID\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\BIG CAT\source\repos\RFID\RFID\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\BIG CAT\source\repos\RFID\RFID\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\BIG CAT\source\repos\RFID\RFID\bin\Debug\Renci.SshNet.dll
+C:\Users\BIG CAT\source\repos\RFID\RFID\bin\Debug\System.Buffers.dll
+C:\Users\BIG CAT\source\repos\RFID\RFID\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\BIG CAT\source\repos\RFID\RFID\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\BIG CAT\source\repos\RFID\RFID\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BIG CAT\source\repos\RFID\RFID\bin\Debug\MySql.Data.xml
+C:\Users\BIG CAT\source\repos\RFID\RFID\obj\Debug\RFID.vbproj.CopyComplete
+D:\RFID test\RFID\RFID\bin\Debug\RFID.exe.config
+D:\RFID test\RFID\RFID\bin\Debug\RFID.exe
+D:\RFID test\RFID\RFID\bin\Debug\RFID.pdb
+D:\RFID test\RFID\RFID\bin\Debug\RFID.xml
+D:\RFID test\RFID\RFID\bin\Debug\Google.Protobuf.dll
+D:\RFID test\RFID\RFID\bin\Debug\Zstandard.Net.dll
+D:\RFID test\RFID\RFID\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\RFID test\RFID\RFID\bin\Debug\BouncyCastle.Crypto.dll
+D:\RFID test\RFID\RFID\bin\Debug\Ubiety.Dns.Core.dll
+D:\RFID test\RFID\RFID\bin\Debug\Renci.SshNet.dll
+D:\RFID test\RFID\RFID\bin\Debug\System.Buffers.dll
+D:\RFID test\RFID\RFID\bin\Debug\K4os.Compression.LZ4.dll
+D:\RFID test\RFID\RFID\bin\Debug\K4os.Hash.xxHash.dll
+D:\RFID test\RFID\RFID\bin\Debug\System.Memory.dll
+D:\RFID test\RFID\RFID\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\RFID test\RFID\RFID\bin\Debug\System.Numerics.Vectors.dll
+D:\RFID test\RFID\RFID\bin\Debug\MySql.Data.xml
+D:\RFID test\RFID\RFID\obj\Debug\RFID.vbprojAssemblyReference.cache
+D:\RFID test\RFID\RFID\obj\Debug\RFID.exe.config
+D:\RFID test\RFID\RFID\obj\Debug\RFID.Form1.resources
+D:\RFID test\RFID\RFID\obj\Debug\RFID.Resources.resources
+D:\RFID test\RFID\RFID\obj\Debug\RFID.vbproj.GenerateResource.cache
+D:\RFID test\RFID\RFID\obj\Debug\RFID.vbproj.CoreCompileInputs.cache
+D:\RFID test\RFID\RFID\obj\Debug\RFID.vbproj.CopyComplete
+D:\RFID test\RFID\RFID\obj\Debug\RFID.exe
+D:\RFID test\RFID\RFID\obj\Debug\RFID.xml
+D:\RFID test\RFID\RFID\obj\Debug\RFID.pdb
+C:\Users\BIG CAT\Downloads\RFID test\RFID\RFID\bin\Debug\RFID.exe.config
+C:\Users\BIG CAT\Downloads\RFID test\RFID\RFID\bin\Debug\RFID.exe
+C:\Users\BIG CAT\Downloads\RFID test\RFID\RFID\bin\Debug\RFID.pdb
+C:\Users\BIG CAT\Downloads\RFID test\RFID\RFID\bin\Debug\RFID.xml
+C:\Users\BIG CAT\Downloads\RFID test\RFID\RFID\bin\Debug\MySql.Data.dll
+C:\Users\BIG CAT\Downloads\RFID test\RFID\RFID\bin\Debug\Google.Protobuf.dll
+C:\Users\BIG CAT\Downloads\RFID test\RFID\RFID\bin\Debug\Zstandard.Net.dll
+C:\Users\BIG CAT\Downloads\RFID test\RFID\RFID\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\BIG CAT\Downloads\RFID test\RFID\RFID\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\BIG CAT\Downloads\RFID test\RFID\RFID\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\BIG CAT\Downloads\RFID test\RFID\RFID\bin\Debug\Renci.SshNet.dll
+C:\Users\BIG CAT\Downloads\RFID test\RFID\RFID\bin\Debug\System.Buffers.dll
+C:\Users\BIG CAT\Downloads\RFID test\RFID\RFID\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\BIG CAT\Downloads\RFID test\RFID\RFID\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\BIG CAT\Downloads\RFID test\RFID\RFID\bin\Debug\System.Memory.dll
+C:\Users\BIG CAT\Downloads\RFID test\RFID\RFID\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BIG CAT\Downloads\RFID test\RFID\RFID\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BIG CAT\Downloads\RFID test\RFID\RFID\bin\Debug\MySql.Data.xml
+C:\Users\BIG CAT\Downloads\RFID test\RFID\RFID\obj\Debug\RFID.vbprojAssemblyReference.cache
+C:\Users\BIG CAT\Downloads\RFID test\RFID\RFID\obj\Debug\RFID.exe.config
+C:\Users\BIG CAT\Downloads\RFID test\RFID\RFID\obj\Debug\RFID.Form1.resources
+C:\Users\BIG CAT\Downloads\RFID test\RFID\RFID\obj\Debug\RFID.Resources.resources
+C:\Users\BIG CAT\Downloads\RFID test\RFID\RFID\obj\Debug\RFID.vbproj.GenerateResource.cache
+C:\Users\BIG CAT\Downloads\RFID test\RFID\RFID\obj\Debug\RFID.vbproj.CoreCompileInputs.cache
+C:\Users\BIG CAT\Downloads\RFID test\RFID\RFID\obj\Debug\RFID.vbproj.CopyComplete
+C:\Users\BIG CAT\Downloads\RFID test\RFID\RFID\obj\Debug\RFID.exe
+C:\Users\BIG CAT\Downloads\RFID test\RFID\RFID\obj\Debug\RFID.xml
+C:\Users\BIG CAT\Downloads\RFID test\RFID\RFID\obj\Debug\RFID.pdb
+E:\RFID test\RFID\RFID\bin\Debug\RFID.exe.config
+E:\RFID test\RFID\RFID\bin\Debug\RFID.exe
+E:\RFID test\RFID\RFID\bin\Debug\RFID.pdb
+E:\RFID test\RFID\RFID\bin\Debug\RFID.xml
+E:\RFID test\RFID\RFID\bin\Debug\Google.Protobuf.dll
+E:\RFID test\RFID\RFID\bin\Debug\Zstandard.Net.dll
+E:\RFID test\RFID\RFID\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\RFID test\RFID\RFID\bin\Debug\BouncyCastle.Crypto.dll
+E:\RFID test\RFID\RFID\bin\Debug\Ubiety.Dns.Core.dll
+E:\RFID test\RFID\RFID\bin\Debug\Renci.SshNet.dll
+E:\RFID test\RFID\RFID\bin\Debug\System.Buffers.dll
+E:\RFID test\RFID\RFID\bin\Debug\K4os.Compression.LZ4.dll
+E:\RFID test\RFID\RFID\bin\Debug\K4os.Hash.xxHash.dll
+E:\RFID test\RFID\RFID\bin\Debug\System.Memory.dll
+E:\RFID test\RFID\RFID\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\RFID test\RFID\RFID\bin\Debug\System.Numerics.Vectors.dll
+E:\RFID test\RFID\RFID\bin\Debug\MySql.Data.xml
+E:\RFID test\RFID\RFID\obj\Debug\RFID.vbproj.AssemblyReference.cache
+E:\RFID test\RFID\RFID\obj\Debug\RFID.exe.config
+E:\RFID test\RFID\RFID\obj\Debug\RFID.Form1.resources
+E:\RFID test\RFID\RFID\obj\Debug\RFID.Resources.resources
+E:\RFID test\RFID\RFID\obj\Debug\RFID.vbproj.GenerateResource.cache
+E:\RFID test\RFID\RFID\obj\Debug\RFID.vbproj.CoreCompileInputs.cache
+E:\RFID test\RFID\RFID\obj\Debug\RFID.vbproj.CopyComplete
+E:\RFID test\RFID\RFID\obj\Debug\RFID.exe
+E:\RFID test\RFID\RFID\obj\Debug\RFID.xml
+E:\RFID test\RFID\RFID\obj\Debug\RFID.pdb
